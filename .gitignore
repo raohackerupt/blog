@@ -9,6 +9,9 @@
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
+
+# Ignore files uploaded on localhost
+/public/system
 /db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
